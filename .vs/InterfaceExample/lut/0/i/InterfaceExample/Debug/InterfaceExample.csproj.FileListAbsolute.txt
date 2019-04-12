@@ -1,0 +1,7 @@
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\b\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\b\InterfaceExample.dll
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\i\InterfaceExample\Debug\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\i\InterfaceExample\Debug\InterfaceExample.csproj.CopyComplete
+C:\Projects\InterfaceExample\.vs\InterfaceExample\lut\0\i\InterfaceExample\Debug\InterfaceExample.dll
